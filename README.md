@@ -1,6 +1,6 @@
 # StudentRoster
 - Author: Dallas Merck
-- Date of submission: 5/4/2022
+- University Scripting and Programming Project
 
 ## Development Environment:
 - IDE: Xcode 13.4.1
